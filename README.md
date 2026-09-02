@@ -1,2 +1,2 @@
-# codinggita-gita
+# codinggita-git
 codinggita git assisgnment 
